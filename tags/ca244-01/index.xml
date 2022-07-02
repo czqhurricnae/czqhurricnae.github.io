@@ -1,3 +1,22 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>CA244-01 on Hurricane's Braindump</title><link>https://braindump.hurricane.dev/tags/ca244-01/</link><description>Recent content in CA244-01 on Hurricane's Braindump</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 15 Nov 2020 18:29:00 +0000</lastBuildDate><atom:link href="https://braindump.hurricane.dev/tags/ca244-01/index.xml" rel="self" type="application/rss+xml"/><item><title>发动机火警线束</title><link>https://braindump.hurricane.dev/posts/%E5%8F%91%E5%8A%A8%E6%9C%BA%E7%81%AB%E8%AD%A6%E7%BA%BF%E6%9D%9F/</link><pubDate>Sun, 15 Nov 2020 18:29:00 +0000</pubDate><guid>https://braindump.hurricane.dev/posts/%E5%8F%91%E5%8A%A8%E6%9C%BA%E7%81%AB%E8%AD%A6%E7%BA%BF%E6%9D%9F/</guid><description>判断出故障在核心机段后，脱开 MW0325 与 M1759/M1760 相连的接线片（可以不用脱开接地接线片），然后测量这两个接线片的对地电阻或者 PIN1 和 PIN2 的对地电阻（这两个接线片其实和 PIN1 和 PIN2 分别导通）。 也可以测量它们对屏蔽层和插头壳的电阻，因为导线屏蔽层和插头壳是接地的。
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CA244-01 on Hurricane&#39;s Braindump</title>
+    <link>https://braindump.hurricane.dev/tags/ca244-01/</link>
+    <description>Recent content in CA244-01 on Hurricane&#39;s Braindump</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 15 Nov 2020 18:29:00 +0000</lastBuildDate><atom:link href="https://braindump.hurricane.dev/tags/ca244-01/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>发动机火警线束</title>
+      <link>https://braindump.hurricane.dev/posts/%E5%8F%91%E5%8A%A8%E6%9C%BA%E7%81%AB%E8%AD%A6%E7%BA%BF%E6%9D%9F/</link>
+      <pubDate>Sun, 15 Nov 2020 18:29:00 +0000</pubDate>
+      
+      <guid>https://braindump.hurricane.dev/posts/%E5%8F%91%E5%8A%A8%E6%9C%BA%E7%81%AB%E8%AD%A6%E7%BA%BF%E6%9D%9F/</guid>
+      <description>判断出故障在核心机段后，脱开 MW0325 与 M1759/M1760 相连的接线片（可以不用脱开接地接线片），然后测量这两个接线片的对地电阻或者 PIN1 和 PIN2 的对地电阻（这两个接线片其实和 PIN1 和 PIN2 分别导通）。 也可以测量它们对屏蔽层和插头壳的电阻，因为导线屏蔽层和插头壳是接地的。
 接线片和地正常应该是绝缘的，但是我们测量出来的阻值为 4400 Ω，明显不符合要求。 所以可以很容易判断就是导线的问题。
-针对件号为 CA243-01 和 CA244-01 的核心机火警导线束，编织层破损标准请参照最新版 AMM TASK 70-70-01-350-801-F00，视情维护。</description></item></channel></rss>
+针对件号为 CA243-01 和 CA244-01 的核心机火警导线束，编织层破损标准请参照最新版 AMM TASK 70-70-01-350-801-F00，视情维护。</description>
+    </item>
+    
+  </channel>
+</rss>

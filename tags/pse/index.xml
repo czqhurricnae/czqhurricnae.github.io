@@ -1,1 +1,20 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>PSE on Hurricane's Braindump</title><link>https://braindump.hurricane.dev/tags/pse/</link><description>Recent content in PSE on Hurricane's Braindump</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 20 Jan 2021 20:46:00 +0000</lastBuildDate><atom:link href="https://braindump.hurricane.dev/tags/pse/index.xml" rel="self" type="application/rss+xml"/><item><title>737NG SRM Structural Classification</title><link>https://braindump.hurricane.dev/posts/737ng-srm-structural-classification/</link><pubDate>Wed, 20 Jan 2021 20:46:00 +0000</pubDate><guid>https://braindump.hurricane.dev/posts/737ng-srm-structural-classification/</guid><description>Table of Contents 51-00-04-0G-0 GENERAL - Structural Classification:fc: Backlinks 737 系列飞机结构修理类型分类方法 737 系列飞机结构修理类型分类方法 一般修理 一般修理 51-00-04-0G-0 GENERAL - Structural Classification fc This section gives the 主要结构元件 Principal Structural Elements (PSEs) and Secondary Structure of the airplane. This can be used to find the classification of major and minor repairs. This section gives a 疲劳敏感结构 Fatigue Critical Baseline Structure (FCBS) List. Backlinks Click to expand!</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PSE on Hurricane&#39;s Braindump</title>
+    <link>https://braindump.hurricane.dev/tags/pse/</link>
+    <description>Recent content in PSE on Hurricane&#39;s Braindump</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 20 Jan 2021 20:46:00 +0000</lastBuildDate><atom:link href="https://braindump.hurricane.dev/tags/pse/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>737NG SRM Structural Classification</title>
+      <link>https://braindump.hurricane.dev/posts/737ng-srm-structural-classification/</link>
+      <pubDate>Wed, 20 Jan 2021 20:46:00 +0000</pubDate>
+      
+      <guid>https://braindump.hurricane.dev/posts/737ng-srm-structural-classification/</guid>
+      <description>Table of Contents  51-00-04-0G-0 GENERAL - Structural Classification:fc: Backlinks  737 系列飞机结构修理类型分类方法 737 系列飞机结构修理类型分类方法 一般修理 一般修理      51-00-04-0G-0 GENERAL - Structural Classification fc  This section gives the 主要结构元件 Principal Structural Elements (PSEs) and Secondary Structure of the airplane. This can be used to find the classification of major and minor repairs. This section gives a 疲劳敏感结构 Fatigue Critical Baseline Structure (FCBS) List.  Backlinks  Click to expand!</description>
+    </item>
+    
+  </channel>
+</rss>
