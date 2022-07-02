@@ -1,29 +1,10 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>chem-milled on Hurricane&#39;s Braindump</title>
-    <link>https://github.com/czqhurricnae/czqhurricnae.github.io/blob/main/tags/chem-milled/</link>
-    <description>Recent content in chem-milled on Hurricane&#39;s Braindump</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 03 Jul 2021 01:01:00 +0000</lastBuildDate><atom:link href="https://github.com/czqhurricnae/czqhurricnae.github.io/blob/main/tags/chem-milled/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>737NG 蒙皮厚度的确定</title>
-      <link>https://github.com/czqhurricnae/czqhurricnae.github.io/blob/main/posts/737ng-%E8%92%99%E7%9A%AE%E5%8E%9A%E5%BA%A6%E7%9A%84%E7%A1%AE%E5%AE%9A/</link>
-      <pubDate>Sat, 03 Jul 2021 01:01:00 +0000</pubDate>
-      
-      <guid>https://github.com/czqhurricnae/czqhurricnae.github.io/blob/main/posts/737ng-%E8%92%99%E7%9A%AE%E5%8E%9A%E5%BA%A6%E7%9A%84%E7%A1%AE%E5%AE%9A/</guid>
-      <description>Table of Contents  Backlinks  737NG 机身凹坑放行标准查找 蒙皮雷击损伤的修理      雷击损伤在航线中属于较为常见的一种损伤形式，由于 ADL1 标准较高，通常会造成航班延误、甚至停场，一直以来都是各航空公司头疼的问题。 波音也在研究如何放宽修复期限来避免航班延误。 而我们能否依据 SRM 对损伤容限的把握以及修理方案的确定做出一个快速的判断，至关重要。
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>chem-milled on Hurricane's Braindump</title><link>https://github.com/czqhurricnae/czqhurricnae.github.io/blob/main/tags/chem-milled/</link><description>Recent content in chem-milled on Hurricane's Braindump</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 03 Jul 2021 01:01:00 +0000</lastBuildDate><atom:link href="https://github.com/czqhurricnae/czqhurricnae.github.io/blob/main/tags/chem-milled/index.xml" rel="self" type="application/rss+xml"/><item><title>737NG 蒙皮厚度的确定</title><link>https://github.com/czqhurricnae/czqhurricnae.github.io/blob/main/posts/737ng-%E8%92%99%E7%9A%AE%E5%8E%9A%E5%BA%A6%E7%9A%84%E7%A1%AE%E5%AE%9A/</link><pubDate>Sat, 03 Jul 2021 01:01:00 +0000</pubDate><guid>https://github.com/czqhurricnae/czqhurricnae.github.io/blob/main/posts/737ng-%E8%92%99%E7%9A%AE%E5%8E%9A%E5%BA%A6%E7%9A%84%E7%A1%AE%E5%AE%9A/</guid><description>Table of Contents Backlinks 737NG 机身凹坑放行标准查找 蒙皮雷击损伤的修理 雷击损伤在航线中属于较为常见的一种损伤形式，由于 ADL1 标准较高，通常会造成航班延误、甚至停场，一直以来都是各航空公司头疼的问题。 波音也在研究如何放宽修复期限来避免航班延误。 而我们能否依据 SRM 对损伤容限的把握以及修理方案的确定做出一个快速的判断，至关重要。
 去年我写了一篇B737飞机雷击损伤容限的总结，提到蒙皮的雷击点可以通过打磨去除损伤、钻孔拉铆钉、贴补片等方式对蒙皮进行修理。 但是雷击点损伤深度为多少的可以通过打磨来处理呢，并未提及。下面我们通过一个案例来讲解一下：
 首先，在 SRM 53-00-01-1A-1 中确定损伤区域。
- Figure 1: allowable damage zones figure
-  除表 103 内指定的区域外，区域 1允许去除损伤的深度为：10%T，区域 2，3 允许去除损伤的深度为：10%T-15%T。 （T为蒙皮的厚度）。 由此可见，对于区域 2 蒙皮的雷击损伤，如果损伤深度超过 15%T，则无法通过打磨的方式进行修复。
- 蒙皮厚度如何查找路径如下图红框所示：
-  找到对应的机身段后，即可在 IDENTIFICATION 中根据具体站位来确定：
- 以下图为例：在机身 41 段有两处损伤，1号损伤的站位为：STA 188-STA 196.5 之间。
- 根据 TABLE2，我们可以看到该块蒙皮的厚度为 0.071inch。
- 但我们在此处看到的蒙皮【2】141A3721 的厚度只是造蒙皮时原始材料的厚度，并非蒙皮的真实厚度。 （*Note:T = Pre-manufactured thickness in inches (millimeters).</description>
-    </item>
-    
-  </channel>
-</rss>
+Figure 1: allowable damage zones figure
+除表 103 内指定的区域外，区域 1允许去除损伤的深度为：10%T，区域 2，3 允许去除损伤的深度为：10%T-15%T。 （T为蒙皮的厚度）。 由此可见，对于区域 2 蒙皮的雷击损伤，如果损伤深度超过 15%T，则无法通过打磨的方式进行修复。
+蒙皮厚度如何查找路径如下图红框所示：
+找到对应的机身段后，即可在 IDENTIFICATION 中根据具体站位来确定：
+以下图为例：在机身 41 段有两处损伤，1号损伤的站位为：STA 188-STA 196.5 之间。
+根据 TABLE2，我们可以看到该块蒙皮的厚度为 0.071inch。
+但我们在此处看到的蒙皮【2】141A3721 的厚度只是造蒙皮时原始材料的厚度，并非蒙皮的真实厚度。 （*Note:T = Pre-manufactured thickness in inches (millimeters).</description></item></channel></rss>

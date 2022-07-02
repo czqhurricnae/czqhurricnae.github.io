@@ -1,22 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>SWPM-20-90-11 on Hurricane&#39;s Braindump</title>
-    <link>https://github.com/czqhurricnae/czqhurricnae.github.io/blob/main/tags/swpm-20-90-11/</link>
-    <description>Recent content in SWPM-20-90-11 on Hurricane&#39;s Braindump</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 17 Mar 2021 23:33:00 +0000</lastBuildDate><atom:link href="https://github.com/czqhurricnae/czqhurricnae.github.io/blob/main/tags/swpm-20-90-11/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>邦迪块</title>
-      <link>https://github.com/czqhurricnae/czqhurricnae.github.io/blob/main/posts/%E9%82%A6%E8%BF%AA%E5%9D%97/</link>
-      <pubDate>Wed, 17 Mar 2021 23:33:00 +0000</pubDate>
-      
-      <guid>https://github.com/czqhurricnae/czqhurricnae.github.io/blob/main/posts/%E9%82%A6%E8%BF%AA%E5%9D%97/</guid>
-      <description>Table of Contents  接线块分类  电阻型接线块 按密度来分类 按类型来分类   邦迪块配件件号说明 邦迪块插钉 邦迪块定位 邦迪块模块的拆卸（Terminal Block Module Removal）  将邦迪块从导轨（Track）上取下 邦迪块插钉的拆卸  标准密度邦迪块退针工具 高密度邦迪块退针工具     邦迪块插钉的安装  标准密度邦迪块插钉的安装 高密度邦迪块插钉的安装   邦迪块的安装 参考资料    接线块分类  电阻型接线块 是指相通的 2 个插孔之间通过一个固定电阻相连，插孔之间有一定的电阻；二极管型是指 2 个插孔之间通过一个二极管相连，具有方向导通特性。该两种接线块一般为彩色的。
-  按密度来分类 分为标准密度邦迪块（插孔数量少于 16 个）和高密度邦迪块（插孔数量等于 16 个）。
- 按类型来分类 分为 F G H X Y Z 六种类型。        邦迪块配件件号说明 邦迪块的安装需要许多配件支持，主要配件有：终端卡子（End Clamp）、间隔器（Spacer）、导轨（Track）。各种配件的件号和图示如下表：</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>SWPM-20-90-11 on Hurricane's Braindump</title><link>https://github.com/czqhurricnae/czqhurricnae.github.io/blob/main/tags/swpm-20-90-11/</link><description>Recent content in SWPM-20-90-11 on Hurricane's Braindump</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 17 Mar 2021 23:33:00 +0000</lastBuildDate><atom:link href="https://github.com/czqhurricnae/czqhurricnae.github.io/blob/main/tags/swpm-20-90-11/index.xml" rel="self" type="application/rss+xml"/><item><title>邦迪块</title><link>https://github.com/czqhurricnae/czqhurricnae.github.io/blob/main/posts/%E9%82%A6%E8%BF%AA%E5%9D%97/</link><pubDate>Wed, 17 Mar 2021 23:33:00 +0000</pubDate><guid>https://github.com/czqhurricnae/czqhurricnae.github.io/blob/main/posts/%E9%82%A6%E8%BF%AA%E5%9D%97/</guid><description>Table of Contents 接线块分类 电阻型接线块 按密度来分类 按类型来分类 邦迪块配件件号说明 邦迪块插钉 邦迪块定位 邦迪块模块的拆卸（Terminal Block Module Removal） 将邦迪块从导轨（Track）上取下 邦迪块插钉的拆卸 标准密度邦迪块退针工具 高密度邦迪块退针工具 邦迪块插钉的安装 标准密度邦迪块插钉的安装 高密度邦迪块插钉的安装 邦迪块的安装 参考资料 接线块分类 电阻型接线块 是指相通的 2 个插孔之间通过一个固定电阻相连，插孔之间有一定的电阻；二极管型是指 2 个插孔之间通过一个二极管相连，具有方向导通特性。该两种接线块一般为彩色的。
+按密度来分类 分为标准密度邦迪块（插孔数量少于 16 个）和高密度邦迪块（插孔数量等于 16 个）。
+按类型来分类 分为 F G H X Y Z 六种类型。 邦迪块配件件号说明 邦迪块的安装需要许多配件支持，主要配件有：终端卡子（End Clamp）、间隔器（Spacer）、导轨（Track）。各种配件的件号和图示如下表：</description></item></channel></rss>

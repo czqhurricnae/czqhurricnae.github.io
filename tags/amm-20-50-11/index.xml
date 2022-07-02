@@ -1,21 +1,2 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>AMM-20-50-11 on Hurricane&#39;s Braindump</title>
-    <link>https://github.com/czqhurricnae/czqhurricnae.github.io/blob/main/tags/amm-20-50-11/</link>
-    <description>Recent content in AMM-20-50-11 on Hurricane&#39;s Braindump</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 20 Apr 2021 16:03:00 +0000</lastBuildDate><atom:link href="https://github.com/czqhurricnae/czqhurricnae.github.io/blob/main/tags/amm-20-50-11/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>紧固件的力矩</title>
-      <link>https://github.com/czqhurricnae/czqhurricnae.github.io/blob/main/posts/%E7%B4%A7%E5%9B%BA%E4%BB%B6%E7%9A%84%E5%8A%9B%E7%9F%A9/</link>
-      <pubDate>Tue, 20 Apr 2021 16:03:00 +0000</pubDate>
-      
-      <guid>https://github.com/czqhurricnae/czqhurricnae.github.io/blob/main/posts/%E7%B4%A7%E5%9B%BA%E4%BB%B6%E7%9A%84%E5%8A%9B%E7%9F%A9/</guid>
-      <description>Table of Contents  Backlinks  紧固件      SRM 51-40-05 AMM 20-50-11
-Backlinks  Click to expand!  紧固件  介绍了一些力矩扳手和普通工具组合对复杂区域螺栓的定力,及力矩的计算方法。 - 提供了一些表格,通过这些表格,查询标准力矩。   </description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>AMM-20-50-11 on Hurricane's Braindump</title><link>https://github.com/czqhurricnae/czqhurricnae.github.io/blob/main/tags/amm-20-50-11/</link><description>Recent content in AMM-20-50-11 on Hurricane's Braindump</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 20 Apr 2021 16:03:00 +0000</lastBuildDate><atom:link href="https://github.com/czqhurricnae/czqhurricnae.github.io/blob/main/tags/amm-20-50-11/index.xml" rel="self" type="application/rss+xml"/><item><title>紧固件的力矩</title><link>https://github.com/czqhurricnae/czqhurricnae.github.io/blob/main/posts/%E7%B4%A7%E5%9B%BA%E4%BB%B6%E7%9A%84%E5%8A%9B%E7%9F%A9/</link><pubDate>Tue, 20 Apr 2021 16:03:00 +0000</pubDate><guid>https://github.com/czqhurricnae/czqhurricnae.github.io/blob/main/posts/%E7%B4%A7%E5%9B%BA%E4%BB%B6%E7%9A%84%E5%8A%9B%E7%9F%A9/</guid><description>Table of Contents Backlinks 紧固件 SRM 51-40-05 AMM 20-50-11
+Backlinks Click to expand! 紧固件 介绍了一些力矩扳手和普通工具组合对复杂区域螺栓的定力,及力矩的计算方法。 - 提供了一些表格,通过这些表格,查询标准力矩。</description></item></channel></rss>
