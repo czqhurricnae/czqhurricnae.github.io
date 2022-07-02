@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>49-52191 on Hurricane&#39;s Braindump</title>
-    <link>https://braindump.hurricane.dev/tags/49-52191/</link>
+    <link>https://github.com/czqhurricnae/czqhurricnae.github.io/blob/main/tags/49-52191/</link>
     <description>Recent content in 49-52191 on Hurricane&#39;s Braindump</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 12 Jan 2022 15:42:00 +0000</lastBuildDate><atom:link href="https://braindump.hurricane.dev/tags/49-52191/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 12 Jan 2022 15:42:00 +0000</lastBuildDate><atom:link href="https://github.com/czqhurricnae/czqhurricnae.github.io/blob/main/tags/49-52191/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>737NG APU 引气系统</title>
-      <link>https://braindump.hurricane.dev/posts/737ng-apu-%E5%BC%95%E6%B0%94%E7%B3%BB%E7%BB%9F/</link>
+      <link>https://github.com/czqhurricnae/czqhurricnae.github.io/blob/main/posts/737ng-apu-%E5%BC%95%E6%B0%94%E7%B3%BB%E7%BB%9F/</link>
       <pubDate>Wed, 12 Jan 2022 15:42:00 +0000</pubDate>
       
-      <guid>https://braindump.hurricane.dev/posts/737ng-apu-%E5%BC%95%E6%B0%94%E7%B3%BB%E7%BB%9F/</guid>
+      <guid>https://github.com/czqhurricnae/czqhurricnae.github.io/blob/main/posts/737ng-apu-%E5%BC%95%E6%B0%94%E7%B3%BB%E7%BB%9F/</guid>
       <description>Table of Contents  PT DP P2 SCV APU 无引气/引气压力低    PT DP P2   P2 探测 APU 进气压力 PT 探测负载压气机出口总压 DP 探测负载压气机出口总压和扩压器静压的差值 ECU 使用 PT 和 DP 来计算负载压气机空气流量  SCV  ECU 使用以下参数来计算修正气流量：
  总压（PT） 压差（DP）  ECU 使用以下参数来计算喘振裕度点：
  T2 IGV 位置 引气模式 空/地信号  ECU 对比喘振裕度点和修正气流量：

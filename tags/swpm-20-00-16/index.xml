@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>SWPM-20-00-16 on Hurricane&#39;s Braindump</title>
-    <link>https://braindump.hurricane.dev/tags/swpm-20-00-16/</link>
+    <link>https://github.com/czqhurricnae/czqhurricnae.github.io/blob/main/tags/swpm-20-00-16/</link>
     <description>Recent content in SWPM-20-00-16 on Hurricane&#39;s Braindump</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 19 Mar 2021 08:06:00 +0000</lastBuildDate><atom:link href="https://braindump.hurricane.dev/tags/swpm-20-00-16/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 19 Mar 2021 08:06:00 +0000</lastBuildDate><atom:link href="https://github.com/czqhurricnae/czqhurricnae.github.io/blob/main/tags/swpm-20-00-16/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>OUTER DIAMETER OF WIRE</title>
-      <link>https://braindump.hurricane.dev/posts/outer-diameter-of-wire/</link>
+      <link>https://github.com/czqhurricnae/czqhurricnae.github.io/blob/main/posts/outer-diameter-of-wire/</link>
       <pubDate>Fri, 19 Mar 2021 08:06:00 +0000</pubDate>
       
-      <guid>https://braindump.hurricane.dev/posts/outer-diameter-of-wire/</guid>
+      <guid>https://github.com/czqhurricnae/czqhurricnae.github.io/blob/main/posts/outer-diameter-of-wire/</guid>
       <description>Table of Contents  Backlinks  航线线路施工及检查      导线的外径简称 O.D ，包括其最内的导体和离导体最近的绝缘层。
      Backlinks  Click to expand!  航线线路施工及检查 AWG：American Wire Gauge，美国标准线径，不包括导线外层的绝缘层，仅仅指导线内部导体的内径。 #+BEGIN_QUOTE 导线的线规号1是一个表征导线的导体截面积大小的号码。 通常用“美国线规”（AWG）号表示。 线规号越大，导体的截面积就越小。 线规号越小，导体的截面积就越大。 美国线规号共有 44 个等级，按导体的截面积从大到小依次为 0000（写作 4/0），000（3/0），00（2/0），0（1/0），1，2，3，…，40。 但是在波音飞机上，实际上只使用从 3/0 至 26 号的导线，4/0 号线以及 26 号以后的导线已很少见，且从小于 2 号以后的导线起就不用奇数线规的导线。 0 号至 4/0 号之间的导线一般只使用在大功率负载线路及电源馈线线路中。 #+END_QUOTE STRAIN RELIEF CLAMP：插头尾部。 MECHANICAL FERRULE：机械压环，用于修理导线时或者做屏蔽接地线的时候使用。一般分为内层机械压环和外层机械压环。 WTC：Wire Type Code，线类型代码，用于确定导线的件号。 CAU：Circular Area Unit，导体的圆形面积。
   导线的线规号

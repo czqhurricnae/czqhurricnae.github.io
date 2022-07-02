@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>autoflight-status-annunciator on Hurricane&#39;s Braindump</title>
-    <link>https://braindump.hurricane.dev/tags/autoflight-status-annunciator/</link>
+    <link>https://github.com/czqhurricnae/czqhurricnae.github.io/blob/main/tags/autoflight-status-annunciator/</link>
     <description>Recent content in autoflight-status-annunciator on Hurricane&#39;s Braindump</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 28 Mar 2021 20:51:00 +0000</lastBuildDate><atom:link href="https://braindump.hurricane.dev/tags/autoflight-status-annunciator/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 28 Mar 2021 20:51:00 +0000</lastBuildDate><atom:link href="https://github.com/czqhurricnae/czqhurricnae.github.io/blob/main/tags/autoflight-status-annunciator/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AP 宣告牌</title>
-      <link>https://braindump.hurricane.dev/posts/ap-%E5%AE%A3%E5%91%8A%E7%89%8C/</link>
+      <link>https://github.com/czqhurricnae/czqhurricnae.github.io/blob/main/posts/ap-%E5%AE%A3%E5%91%8A%E7%89%8C/</link>
       <pubDate>Sun, 28 Mar 2021 20:51:00 +0000</pubDate>
       
-      <guid>https://braindump.hurricane.dev/posts/ap-%E5%AE%A3%E5%91%8A%E7%89%8C/</guid>
+      <guid>https://github.com/czqhurricnae/czqhurricnae.github.io/blob/main/posts/ap-%E5%AE%A3%E5%91%8A%E7%89%8C/</guid>
       <description>A/P 宣告牌琥珀色1 当 DFCS 从 CMD 转换为 CWS，MCP 发送 CWS WARN 警告信号至 ASAs，使得 A/P 宣告牌琥珀色闪亮。
   A/P 宣告牌红色
  闪亮1：  当 A/P 脱开时，MCP 发送 A/P 警告信号至 ASAs，使 A/P 宣告牌红色闪亮。   稳定亮2：  DFCS 处于 BITE 状态。 两部 FCC 无法协同工作。 一部 FCC 在地面上电测试失败。 飞机高于 400FT，因单通道俯仰权限无效导致无法从 A/P G/A （复飞）方式退出进入高度截获方式在飞机高于 400FT，因单通道俯仰权限无效导致无法从 A/P G/A 方式退出进入高度截获方式 飞机高于 400FT，因单通道俯仰权限无效导致无法从 A/P G/A 方式退出进入高度截获方式。 飞机处于 A/P G/A 时 MCP 总线失效。      A/T 宣告牌琥珀色</description>

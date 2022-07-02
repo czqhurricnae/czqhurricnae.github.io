@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>PL on Hurricane&#39;s Braindump</title>
-    <link>https://braindump.hurricane.dev/tags/pl/</link>
+    <link>https://github.com/czqhurricnae/czqhurricnae.github.io/blob/main/tags/pl/</link>
     <description>Recent content in PL on Hurricane&#39;s Braindump</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 18 Jan 2021 13:16:00 +0000</lastBuildDate><atom:link href="https://braindump.hurricane.dev/tags/pl/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 18 Jan 2021 13:16:00 +0000</lastBuildDate><atom:link href="https://github.com/czqhurricnae/czqhurricnae.github.io/blob/main/tags/pl/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>波音工程图纸-零件清单（PL）</title>
-      <link>https://braindump.hurricane.dev/posts/%E6%B3%A2%E9%9F%B3%E5%B7%A5%E7%A8%8B%E5%9B%BE%E7%BA%B8-%E9%9B%B6%E4%BB%B6%E6%B8%85%E5%8D%95pl/</link>
+      <link>https://github.com/czqhurricnae/czqhurricnae.github.io/blob/main/posts/%E6%B3%A2%E9%9F%B3%E5%B7%A5%E7%A8%8B%E5%9B%BE%E7%BA%B8-%E9%9B%B6%E4%BB%B6%E6%B8%85%E5%8D%95pl/</link>
       <pubDate>Mon, 18 Jan 2021 13:16:00 +0000</pubDate>
       
-      <guid>https://braindump.hurricane.dev/posts/%E6%B3%A2%E9%9F%B3%E5%B7%A5%E7%A8%8B%E5%9B%BE%E7%BA%B8-%E9%9B%B6%E4%BB%B6%E6%B8%85%E5%8D%95pl/</guid>
+      <guid>https://github.com/czqhurricnae/czqhurricnae.github.io/blob/main/posts/%E6%B3%A2%E9%9F%B3%E5%B7%A5%E7%A8%8B%E5%9B%BE%E7%BA%B8-%E9%9B%B6%E4%BB%B6%E6%B8%85%E5%8D%95pl/</guid>
       <description>Table of Contents  Backlinks  737NG 更换一号风挡固定拖把耗材工程图纸查询 737NG 标准力矩值查询指南  (管接头的力矩查询 &amp;gt; 如何确定正确的液压管组件力矩值)   波音工程图纸-图纸页资料清单（PSDL） 737NG 液压管安装力矩的确定  (管组件与其他固定接头安装力矩确定（以管组件 272A1553-47 的安装为例） &amp;gt; 管组件材料，尺寸的确定)        零件清单（PL），即 Part list，是工程零部件的材料清单，表明工程零部件的完整构型，在实际应用中，我们可以根据 PL 来确定工程图纸的适用性。
 Backlinks  Click to expand!  737NG 更换一号风挡固定拖把耗材工程图纸查询 某飞机航后更换左一风挡，更换过程中发现风挡固定螺栓处的拖把损坏，若更换整个组件，来的方便但有点浪费。若仅更换损坏拖把，需要查找相关耗材。这次我们以更换此处拖把为例，通过图纸查询简单介绍一下相关耗材的查找。 ![](/737NG 更换一号风挡固定拖把耗材工程图纸查询/5790.jpeg) ![](/737NG 更换一号风挡固定拖把耗材工程图纸查询/6446.jpeg) ![](/737NG 更换一号风挡固定拖把耗材工程图纸查询/7127.jpeg) 如下图，经检查若更换损坏拖把，就需要将封严从金属压条上分解下来，但封严和金属压条之间是用胶来粘接的，此时就需要查询胶的件号，但 AMM 上并未提供该胶件号。此时就需要通过图纸查询。 ![](/737NG 更换一号风挡固定拖把耗材工程图纸查询/8010.jpeg) 首先我们通过 IPC 找到此处压条组件的件号： ![](/737NG 更换一号风挡固定拖把耗材工程图纸查询/8842.jpeg) ![](/737NG 更换一号风挡固定拖把耗材工程图纸查询/9265.jpeg) 通过工程信息交付 Engineering Information Delivery 查到该组件的图纸号，或者直接在首页的搜索栏输入该件号： ![](/737NG 更换一号风挡固定拖把耗材工程图纸查询/10331.</description>
     </item>

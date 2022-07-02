@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>PSDL on Hurricane&#39;s Braindump</title>
-    <link>https://braindump.hurricane.dev/tags/psdl/</link>
+    <link>https://github.com/czqhurricnae/czqhurricnae.github.io/blob/main/tags/psdl/</link>
     <description>Recent content in PSDL on Hurricane&#39;s Braindump</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 18 Jan 2021 13:20:00 +0000</lastBuildDate><atom:link href="https://braindump.hurricane.dev/tags/psdl/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 18 Jan 2021 13:20:00 +0000</lastBuildDate><atom:link href="https://github.com/czqhurricnae/czqhurricnae.github.io/blob/main/tags/psdl/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>波音工程图纸-图纸页资料清单（PSDL）</title>
-      <link>https://braindump.hurricane.dev/posts/%E6%B3%A2%E9%9F%B3%E5%B7%A5%E7%A8%8B%E5%9B%BE%E7%BA%B8-%E5%9B%BE%E7%BA%B8%E9%A1%B5%E8%B5%84%E6%96%99%E6%B8%85%E5%8D%95psdl/</link>
+      <link>https://github.com/czqhurricnae/czqhurricnae.github.io/blob/main/posts/%E6%B3%A2%E9%9F%B3%E5%B7%A5%E7%A8%8B%E5%9B%BE%E7%BA%B8-%E5%9B%BE%E7%BA%B8%E9%A1%B5%E8%B5%84%E6%96%99%E6%B8%85%E5%8D%95psdl/</link>
       <pubDate>Mon, 18 Jan 2021 13:20:00 +0000</pubDate>
       
-      <guid>https://braindump.hurricane.dev/posts/%E6%B3%A2%E9%9F%B3%E5%B7%A5%E7%A8%8B%E5%9B%BE%E7%BA%B8-%E5%9B%BE%E7%BA%B8%E9%A1%B5%E8%B5%84%E6%96%99%E6%B8%85%E5%8D%95psdl/</guid>
+      <guid>https://github.com/czqhurricnae/czqhurricnae.github.io/blob/main/posts/%E6%B3%A2%E9%9F%B3%E5%B7%A5%E7%A8%8B%E5%9B%BE%E7%BA%B8-%E5%9B%BE%E7%BA%B8%E9%A1%B5%E8%B5%84%E6%96%99%E6%B8%85%E5%8D%95psdl/</guid>
       <description>Table of Contents  Backlinks  737NG 更换一号风挡固定拖把耗材工程图纸查询 737NG 更换一号风挡固定拖把耗材工程图纸查询 通过盖板组件件号，搜索对应的波音图纸 紧固件标识  (紧固件标识 &amp;gt; 右下角)   紧固件标识  (紧固件标识 &amp;gt; 右下角)        图页资料清单（PSDL），即 Picture Sheet Data List，以文字的形式说明图页上的旗标（FLAG NOTES），通用标注（GENERAL NOTES）等。 注意：有的 PL 中也有可能出现旗标，但 PSDL 中的旗标超越 PL 中的旗标。 查阅旗标一定以 PSDL 中的为准。
 Backlinks  Click to expand!  737NG 更换一号风挡固定拖把耗材工程图纸查询 某飞机航后更换左一风挡，更换过程中发现风挡固定螺栓处的拖把损坏，若更换整个组件，来的方便但有点浪费。若仅更换损坏拖把，需要查找相关耗材。这次我们以更换此处拖把为例，通过图纸查询简单介绍一下相关耗材的查找。 ![](/737NG 更换一号风挡固定拖把耗材工程图纸查询/5790.jpeg) ![](/737NG 更换一号风挡固定拖把耗材工程图纸查询/6446.jpeg) ![](/737NG 更换一号风挡固定拖把耗材工程图纸查询/7127.jpeg) 如下图，经检查若更换损坏拖把，就需要将封严从金属压条上分解下来，但封严和金属压条之间是用胶来粘接的，此时就需要查询胶的件号，但 AMM 上并未提供该胶件号。此时就需要通过图纸查询。 ![](/737NG 更换一号风挡固定拖把耗材工程图纸查询/8010.jpeg) 首先我们通过 IPC 找到此处压条组件的件号： !</description>
     </item>
