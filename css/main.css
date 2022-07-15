@@ -1,5 +1,7 @@
 @import url("https://rsms.me/inter/inter.css");
 
+table { border-collapse:collapse; border-spacing:0; }
+
 html,
 body {
   font-family: "Inter", sans-serif;
@@ -419,3 +421,24 @@ dt + dt + dd {
     margin-right: .5rem;
     color: #29627e;
 }
+
+/* Table style */
+/* ********************************* */
+.t-above {
+    margin: .06rem 0;
+    color: #666;
+    font-size: .14rem;
+}
+
+table { margin: .24rem 0; }
+thead tr { border-top: 2px solid #369; }
+tbody { border-top: 2px solid #369; }
+tbody tr { border-bottom: 1px solid #369; }
+tbody tr:last-child { border-bottom: 2px solid #369; }
+th, td { padding: 3px 6px; border-right: 1px solid #369; }
+
+.org-center { text-align: center; }
+.org-right { text-align: right; }
+
+th:first-child, td:first-child { border-left:  rgba(255, 255, 255, 0); }
+th:last-child, td:last-child { border-right: rgba(255, 255, 255, 0); }
